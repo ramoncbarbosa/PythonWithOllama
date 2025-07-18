@@ -6,7 +6,7 @@ import time
 
 # -------- CONFIGS OLLAMA --------
 OLLAMA_URL = "http://localhost:11434/api/chat"
-OLLAMA_MODEL = "llama3"  # ajuste para o modelo que você estiver rodando localmente
+OLLAMA_MODEL = "llama3"
 TIMEOUT = 60
 MAX_TOKENS = 800
 TEMPERATURE = 0.6
